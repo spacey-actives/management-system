@@ -1,1 +1,1 @@
-# management-system
+Run node app.js to execute the main application
